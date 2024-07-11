@@ -3,8 +3,8 @@
 <img alt="my stats" align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=renevajda1&show_icons=true&theme=radical"/>
 <img alt="top langs" align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renevajda1&layout=compact&theme=radical"/>
 
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=renevajda1)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub-Mark-Light](https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png#gh-dark-mode-only)![GitHub-Mark-Dark](https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png#gh-dark-mode-only)
 <!--
 **ReneVajda1/ReneVajda1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

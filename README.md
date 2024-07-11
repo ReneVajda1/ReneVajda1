@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ReneVajda1)](https://github.com/ReneVajda1/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ReneVajda1&show_icons=true)](https://github.com/ReneVajda1/github-readme-stats)
 
 <!--
 **ReneVajda1/ReneVajda1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

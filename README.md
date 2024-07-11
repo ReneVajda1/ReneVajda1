@@ -6,7 +6,7 @@
 <img alt="my stats" align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=renevajda1&show_icons=true&show=reviews,prs_merged,prs_merged_percentage&theme=radical"/>
 
 
-<img alt="top langs" align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renevajda1&layout=compact&langs_count=2&theme=radical"/>
+<img alt="top langs" align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renevajda1&layout=compact&langs_count=6&theme=radical"/>
 
 
 <!--

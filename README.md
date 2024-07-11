@@ -2,6 +2,7 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ReneVajda1&show_icons=true)](https://github.com/ReneVajda1/github-readme-stats)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ReneVajda1&layout=compact)
 <!--
 **ReneVajda1/ReneVajda1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

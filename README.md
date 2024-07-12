@@ -11,8 +11,6 @@
   </tr>
 </table>
 
- <img alt="top wakata" src="https://github-readme-stats.vercel.app/api/wakatime?username=ReneVajda1)](https://github.com/ReneVajda1/github-readme-stats)"/>
-
 [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ReneVajda1)](https://github.com/ReneVajda1/github-readme-stats)
 <br>
 

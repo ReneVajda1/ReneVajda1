@@ -9,7 +9,6 @@
 
 <div class="markdown-heading" dir="auto">
   <br>
-  <h2 class="heading-element" dir="auto">A boat me</h2>
 </div>
 
 <p dir="auto">Hi 👋 there 👋</p>

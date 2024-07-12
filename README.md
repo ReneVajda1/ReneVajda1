@@ -18,7 +18,7 @@
 </div>
 
 <p dir="auto">Hi 👋 there 👋</p>
-<p dir="auto">You know only these wars are acceptable...</p>
+<p dir="auto">code code code</p>
 
 <a href="https://www.codewars.com/users/ReneVajda1" rel="nofollow">
   <img src="https://www.codewars.com/users/ReneVajda1/badges/small" alt="Codewars badge" data-canonical-src="https://www.codewars.com/users/ReneVajda1/badges/small" style="max-width: 100%;">

@@ -11,6 +11,9 @@
   </tr>
 </table>
 
+ <img alt="top wakata" src="https://github-readme-stats.vercel.app/api/wakatime?username=renevajda1)](https://github.com/anuraghazra/github-readme-stats)"/>
+
+
 <br>
 
 <div class="markdown-heading" dir="auto">

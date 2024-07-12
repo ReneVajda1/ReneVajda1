@@ -11,7 +11,7 @@
   </tr>
 </table>
 
- <img alt="top wakata" src="https://github-readme-stats.vercel.app/api/wakatime?username=renevajda1)](https://github.com/anuraghazra/github-readme-stats)"/>
+ <img alt="top wakata" src="https://github-readme-stats.vercel.app/api/wakatime?username=ReneVajda1)](https://github.com/anuraghazra/github-readme-stats)"/>
 
 
 <br>

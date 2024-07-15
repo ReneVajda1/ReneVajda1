@@ -8,9 +8,6 @@
     <td width="50%">
       <img alt="top langs" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renevajda1&layout=compact&langs_count=6&theme=radical"/>
     </td>
-<td width="50%">
-    <img alt="asdf"   src=" https://wakatime.com/badge/user/0e735218-bd2d-4330-a968-3f6a1ae663dc/project/b0fa961f-dd53-4dbf-98c8-3817fb08791d.svg"/>
-      </td>
   </tr>
 </table>
 

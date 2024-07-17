@@ -1,8 +1,17 @@
 ## Stats 👋
+<table>
+  <tr>
+    <td width="50%">
+      <img alt="my stats" width="100%" src="https://github-readme-stats.vercel.app/api?username=renevajda1&show_icons=true&show=reviews,prs_merged,prs_merged_percentage&theme=github_dark"/>
+    </td>
+    <td width="50%">
+      <img alt="top langs" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renevajda1&layout=compact&langs_count=6&theme=github_dark"/>
+    </td>
+  </tr>
+</table>
 
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ReneVajda1)](https://github.com/anuraghazra/github-readme-stats)
-<br>
+
 
 <div class="markdown-heading" dir="auto">
   <h2 class="heading-element" dir="auto">About me</h2>
